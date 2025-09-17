@@ -9,6 +9,9 @@
 /.npmignore
 /tsconfig.json
 /eslintConfig
+/rollup.config.mjs
+/tools
+/scripts
 
 # Node modules
 /node_modules
@@ -16,12 +19,16 @@
 # Build artifacts
 /coverage
 /.cache
-/dist/*.map
+*.map
 
 # Logs
 npm-debug.log
 yarn-error.log
+*.log
 
 # Miscellaneous
 .DS_Store
 /__tests__/
+
+# Keep dist folder (it should be included)
+# Don't ignore /dist - we need it in the package!
