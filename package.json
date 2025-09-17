@@ -1,6 +1,6 @@
 {
   "name": "bravyicons-react",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "BravyIcons React Component Library https://bravyicons.com",
   "homepage": "https://bravyicons.com",
   "amdName": "bravyicons-react",
@@ -13,7 +13,6 @@
   "files": [
     "dist"
   ],
-
   "author": "Evandro",
   "scripts": {
     "build": "pnpm clean && pnpm typecheck && pnpm build:bundles",
