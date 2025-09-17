@@ -1,5 +1,5 @@
 /**
- * @license bravyicons-react v0.3.0
+ * @license bravyicons-react v0.3.2
  *
  * See the LICENSE file in the root directory of this source tree.
  */
