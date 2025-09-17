@@ -1,0 +1,61 @@
+{
+  "name": "bravyicons-react",
+  "version": "0.3.0",
+  "description": "BravyIcons React Component Library https://bravyicons.com",
+  "homepage": "https://bravyicons.com",
+  "amdName": "bravyicons-react",
+  "main": "dist/cjs/bravyicons-react.js",
+  "main:umd": "dist/umd/bravyicons-react.js",
+  "module": "dist/esm/bravyicons-react.js",
+  "unpkg": "dist/umd/bravyicons-react.js",
+  "typings": "dist/bravyicons-react.d.ts",
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+
+  "author": "Evandro",
+  "scripts": {
+    "build": "pnpm clean && pnpm typecheck && pnpm build:bundles",
+    "build:bundles": "set NODE_OPTIONS=--max-old-space-size=18192 && npx rollup -c ./rollup.config.mjs",
+    "typecheck": "tsc",
+    "clean": "rmdir /s /q dist 2>nul || echo \"dist folder already clean\""
+  },
+  "devDependencies": {
+    "@atomico/rollup-plugin-sizes": "^1.1.4",
+    "@rollup/plugin-replace": "^5.0.5",
+    "@types/node": "^16.18.80",
+    "@types/react": "^18.0.12",
+    "cheerio": "^1.0.0-rc.12",
+    "esbuild": "^0.20.1",
+    "html-minifier": "^4.0.0",
+    "lodash": "^4.17.21",
+    "prettier": "^3.2.5",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "rollup": "^4.12.0",
+    "rollup-plugin-dts": "^6.1.0",
+    "rollup-plugin-esbuild": "^6.1.1",
+    "rollup-plugin-license": "^3.2.0",
+    "rollup-plugin-visualizer": "^5.12.0",
+    "svgo": "^3.2.0",
+    "svgson": "^5.3.1",
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0"
+  },
+  "keywords": [
+    "icons",
+    "react-icons",
+    "ui-components",
+    "design-system",
+    "vector-icons",
+    "react-component-library",
+    "web-icons",
+    "scalable-icons",
+    "customizable-icons",
+    "icon-library"
+  ],
+  "license": "CC0-1.0"
+}
