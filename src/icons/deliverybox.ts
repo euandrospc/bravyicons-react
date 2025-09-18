@@ -1,0 +1,16 @@
+import createBravyIconsComponent from '../create-bravyicon-component';
+
+/**
+ * @component @name Deliverybox
+ * @description Renders Bravyicons Deliverybox svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+ const Deliverybox = createBravyIconsComponent("Deliverybox", [
+    ["path", { d: "M6.62278 0.96092C7.48633 0.514954 8.5124 0.514954 9.37595 0.96092L11.6994 2.16082L13.7979 3.28514C14.7645 3.80297 15.3715 4.80688 15.3811 5.90336L15.3994 8L15.3811 10.0966C15.3715 11.1931 14.7645 12.197 13.7979 12.7149L11.6994 13.8392L9.37595 15.0391C8.5124 15.485 7.48633 15.485 6.62278 15.0391L4.29937 13.8392L2.2008 12.7149C1.23425 12.197 0.627223 11.1931 0.617657 10.0966L0.599365 8L0.617657 5.90336C0.627223 4.80688 1.23425 3.80297 2.2008 3.28514L4.29937 2.16082L6.62278 0.96092Z", stroke: "currentColor", key: "k0" }],
+    ["path", { d: "M8.08472 15.1001V8.1001M8.08472 8.1001L14.5847 4.6001M8.08472 8.1001L1.08472 4.6001", stroke: "currentColor", key: "k1" }],
+    ["path", { d: "M4.5 2L12 6V9", stroke: "currentColor", key: "k2" }]
+]);
+
+export default Deliverybox;

@@ -1,0 +1,7 @@
+/**
+ * @license bravyicons-react v0.3.5
+ *
+ * See the LICENSE file in the root directory of this source tree.
+ */
+
+import r from"../create-bravyicon-component.js";const e=r("Cake",[["path",{d:"M2 22H22",stroke:"currentColor",key:"k0"}],["path",{d:"M3.10999 22V13C3.10999 11.34 4.59999 10 6.43999 10H17.55C19.39 10 20.88 11.34 20.88 13V22",stroke:"currentColor",key:"k1"}],["path",{d:"M5.56006 10V7.17C5.56006 5.97 6.64006 5 7.98006 5H16.0301C17.3601 5 18.4401 5.97 18.4401 7.17V10",stroke:"currentColor",key:"k2"}],["path",{d:"M3.53003 13.98L3.90003 13.99C4.64003 14 5.23003 14.6 5.23003 15.34V15.67C5.23003 16.41 5.83003 17.02 6.58003 17.02C7.32003 17.02 7.93003 16.42 7.93003 15.67V15.36C7.93003 14.62 8.53003 14.01 9.28003 14.01C10.02 14.01 10.63 14.61 10.63 15.36V15.67C10.63 16.41 11.23 17.02 11.98 17.02C12.72 17.02 13.33 16.42 13.33 15.67V15.36C13.33 14.62 13.93 14.01 14.68 14.01C15.42 14.01 16.03 14.61 16.03 15.36V15.67C16.03 16.41 16.63 17.02 17.38 17.02C18.12 17.02 18.73 16.42 18.73 15.67V15.36C18.73 14.62 19.33 14.01 20.08 14.01H20.53",stroke:"currentColor",key:"k3"}],["path",{d:"M8 5V3",stroke:"currentColor",key:"k4"}],["path",{d:"M16 5V3",stroke:"currentColor",key:"k5"}],["path",{d:"M12 5V2",stroke:"currentColor",key:"k6"}]]);export{e as default};

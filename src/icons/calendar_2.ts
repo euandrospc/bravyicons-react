@@ -1,0 +1,20 @@
+import createBravyIconsComponent from '../create-bravyicon-component';
+
+/**
+ * @component @name Calendar2
+ * @description Renders Bravyicons Calendar2 svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+ const Calendar2 = createBravyIconsComponent("Calendar2", [
+    ["path", { d: "M8 2V5", stroke: "currentColor", key: "k0" }],
+    ["path", { d: "M16 2V5", stroke: "currentColor", key: "k1" }],
+    ["path", { d: "M3.5 9.08997H20.5", stroke: "currentColor", key: "k2" }],
+    ["path", { d: "M21 8.5V17C21 20 19.5 22 16 22H8C4.5 22 3 20 3 17V8.5C3 5.5 4.5 3.5 8 3.5H16C19.5 3.5 21 5.5 21 8.5Z", stroke: "currentColor", key: "k3" }],
+    ["path", { d: "M11.9955 13.7H12.0045", stroke: "currentColor", key: "k4" }],
+    ["path", { d: "M8.29431 13.7H8.30329", stroke: "currentColor", key: "k5" }],
+    ["path", { d: "M8.29431 16.7H8.30329", stroke: "currentColor", key: "k6" }]
+]);
+
+export default Calendar2;

@@ -1,0 +1,15 @@
+import createBravyIconsComponent from '../create-bravyicon-component';
+
+/**
+ * @component @name Cursor
+ * @description Renders Bravyicons Cursor svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+ const Cursor = createBravyIconsComponent("Cursor", [
+    ["path", { d: "M16.1499 12.83L14.4199 13.41C13.9399 13.57 13.5699 13.94 13.4099 14.42L12.8299 16.15C12.3399 17.64 10.2399 17.61 9.77994 16.12L7.82994 9.84C7.44994 8.59 8.59994 7.44001 9.82994 7.82001L16.1199 9.76999C17.6099 10.24 17.6299 12.34 16.1499 12.83Z", stroke: "currentColor", key: "k0" }],
+    ["path", { d: "M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z", stroke: "currentColor", key: "k1" }]
+]);
+
+export default Cursor;

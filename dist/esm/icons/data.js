@@ -1,0 +1,7 @@
+/**
+ * @license bravyicons-react v0.3.5
+ *
+ * See the LICENSE file in the root directory of this source tree.
+ */
+
+import r from"../create-bravyicon-component.js";const t=r("Data",[["path",{d:"M20 14C21.1046 14 22 13.1046 22 12C22 10.8954 21.1046 10 20 10C18.8954 10 18 10.8954 18 12C18 13.1046 18.8954 14 20 14Z",stroke:"currentColor",key:"k0"}],["path",{d:"M20 6C21.1046 6 22 5.10457 22 4C22 2.89543 21.1046 2 20 2C18.8954 2 18 2.89543 18 4C18 5.10457 18.8954 6 20 6Z",stroke:"currentColor",key:"k1"}],["path",{d:"M20 22C21.1046 22 22 21.1046 22 20C22 18.8954 21.1046 18 20 18C18.8954 18 18 18.8954 18 20C18 21.1046 18.8954 22 20 22Z",stroke:"currentColor",key:"k2"}],["path",{d:"M4 14C5.10457 14 6 13.1046 6 12C6 10.8954 5.10457 10 4 10C2.89543 10 2 10.8954 2 12C2 13.1046 2.89543 14 4 14Z",stroke:"currentColor",key:"k3"}],["path",{d:"M6 12H18",stroke:"currentColor",key:"k4"}],["path",{d:"M18 4H14C12 4 11 5 11 7V17C11 19 12 20 14 20H18",stroke:"currentColor",key:"k5"}]]);export{t as default};

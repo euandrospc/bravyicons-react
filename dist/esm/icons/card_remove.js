@@ -1,0 +1,7 @@
+/**
+ * @license bravyicons-react v0.3.5
+ *
+ * See the LICENSE file in the root directory of this source tree.
+ */
+
+import r from"../create-bravyicon-component.js";const e=r("CardRemove",[["path",{d:"M1.89844 10.0303H21.8984",stroke:"currentColor",key:"k0"}],["path",{d:"M11.4584 20.53H6.34839C2.79839 20.53 1.89844 19.65 1.89844 16.14V7.92004C1.89844 4.74004 2.63841 3.72004 5.42841 3.56004C5.70841 3.55004 6.01839 3.54004 6.34839 3.54004H17.4584C21.0084 3.54004 21.9084 4.42004 21.9084 7.93004V12.34",stroke:"currentColor",key:"k1"}],["path",{d:"M17.8984 22.0303C20.1076 22.0303 21.8984 20.2394 21.8984 18.0303C21.8984 15.8211 20.1076 14.0303 17.8984 14.0303C15.6893 14.0303 13.8984 15.8211 13.8984 18.0303C13.8984 20.2394 15.6893 22.0303 17.8984 22.0303Z",stroke:"currentColor",key:"k2"}],["path",{d:"M18.9694 19.1503L16.8594 17.0303",stroke:"currentColor",key:"k3"}],["path",{d:"M18.9481 17.0603L16.8281 19.1703",stroke:"currentColor",key:"k4"}],["path",{d:"M5.89844 16.0303H9.89844",stroke:"currentColor",key:"k5"}]]);export{e as default};

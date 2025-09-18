@@ -1,0 +1,17 @@
+import createBravyIconsComponent from '../create-bravyicon-component';
+
+/**
+ * @component @name Arrow3
+ * @description Renders Bravyicons Arrow3 svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+ const Arrow3 = createBravyIconsComponent("Arrow3", [
+    ["path", { d: "M10.45 6.71997L6.72998 3L3.01001 6.71997", stroke: "currentColor", key: "k0" }],
+    ["path", { d: "M6.72998 21V3", stroke: "currentColor", key: "k1" }],
+    ["path", { d: "M13.55 17.28L17.2701 21L20.9901 17.28", stroke: "currentColor", key: "k2" }],
+    ["path", { d: "M17.27 3V21", stroke: "currentColor", key: "k3" }]
+]);
+
+export default Arrow3;

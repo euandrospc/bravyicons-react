@@ -8,7 +8,7 @@ import { dirname } from 'path';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const svgDirectory = 'C:\\Users\\Admin\\Downloads\\UIX Icons';
+const svgDirectory = 'C:\\Users\\Admin\\Desktop\\Icons - Copia';
 const outputDirectory = path.join(__dirname, '../src/icons');
 
 const ordinalToWord = (name) => {
@@ -25,7 +25,7 @@ const ordinalToWord = (name) => {
 }
 
 function convertFileNameToComponentName(fileName) {
-  return _.upperFirst(_.camelCase(ordinalToWord(fileName))) + 'Icon';
+  return _.upperFirst(_.camelCase(ordinalToWord(fileName)));
 }
 
 async function convertSvgToJsObject(filePath) {

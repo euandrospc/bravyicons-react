@@ -1,0 +1,18 @@
+import createBravyIconsComponent from '../create-bravyicon-component';
+
+/**
+ * @component @name GalleryRemove
+ * @description Renders Bravyicons GalleryRemove svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+ const GalleryRemove = createBravyIconsComponent("GalleryRemove", [
+    ["path", { d: "M9 10C10.1046 10 11 9.10457 11 8C11 6.89543 10.1046 6 9 6C7.89543 6 7 6.89543 7 8C7 9.10457 7.89543 10 9 10Z", stroke: "currentColor", key: "k0" }],
+    ["path", { d: "M13 2H9C4 2 2 4 2 9V15C2 20 4 22 9 22H15C20 22 22 20 22 15V10", stroke: "currentColor", key: "k1" }],
+    ["path", { d: "M16.5601 6.94006L20.4401 3.06006", stroke: "currentColor", key: "k2" }],
+    ["path", { d: "M20.4401 6.94006L16.5601 3.06006", stroke: "currentColor", key: "k3" }],
+    ["path", { d: "M2.66992 18.9501L7.59992 15.6401C8.38992 15.1101 9.52992 15.1701 10.2399 15.7801L10.5699 16.0701C11.3499 16.7401 12.6099 16.7401 13.3899 16.0701L17.5499 12.5001C18.3299 11.8301 19.5899 11.8301 20.3699 12.5001L21.9999 13.9001", stroke: "currentColor", key: "k4" }]
+]);
+
+export default GalleryRemove;

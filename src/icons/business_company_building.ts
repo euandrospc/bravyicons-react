@@ -1,0 +1,19 @@
+import createBravyIconsComponent from '../create-bravyicon-component';
+
+/**
+ * @component @name BusinessCompanyBuilding
+ * @description Renders Bravyicons BusinessCompanyBuilding svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+ const BusinessCompanyBuilding = createBravyIconsComponent("BusinessCompanyBuilding", [
+    ["path", { d: "M8.42169 15.3618H2.25133C1.40126 15.3618 0.705078 14.6802 0.705078 13.8448V2.96975C0.705078 1.04976 2.13408 0.177703 3.88552 1.0351L7.13925 2.63265C7.84276 2.97708 8.42169 3.89311 8.42169 4.6699V15.3618Z", stroke: "currentColor", key: "k0" }],
+    ["path", { d: "M15.3617 10.2753V13.0454C15.3617 14.6282 14.6289 15.3611 13.046 15.3611H8.42188V6.875L8.7663 6.94828L12.064 7.68843L13.5516 8.0182C14.5189 8.23072 15.3104 8.72904 15.3544 10.1361C15.3617 10.18 15.3617 10.224 15.3617 10.2753Z", stroke: "currentColor", key: "k1" }],
+    ["path", { d: "M3.29175 5.83459H5.83464", stroke: "currentColor", key: "k2" }],
+    ["path", { d: "M3.29175 8.76562H5.83464", stroke: "currentColor", key: "k3" }],
+    ["path", { d: "M12.0633 7.68888V10.0486C12.0633 10.9573 11.3232 11.6974 10.4145 11.6974C9.50577 11.6974 8.76562 10.9573 8.76562 10.0486V6.94873L12.0633 7.68888Z", stroke: "currentColor", key: "k4" }],
+    ["path", { d: "M15.3538 10.1368C15.3099 11.0016 14.5917 11.6977 13.7123 11.6977C12.8036 11.6977 12.0635 10.9576 12.0635 10.0489V7.68921L13.5511 8.01898C14.5184 8.2315 15.3099 8.72982 15.3538 10.1368Z", stroke: "currentColor", key: "k5" }]
+]);
+
+export default BusinessCompanyBuilding;

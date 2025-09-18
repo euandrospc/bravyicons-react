@@ -1,0 +1,16 @@
+import createBravyIconsComponent from '../create-bravyicon-component';
+
+/**
+ * @component @name Crown1
+ * @description Renders Bravyicons Crown1 svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+ const Crown1 = createBravyIconsComponent("Crown1", [
+    ["path", { d: "M16.7 18.98H7.30002C6.88002 18.98 6.41002 18.65 6.27002 18.25L2.13002 6.66999C1.54002 5.00999 2.23002 4.49999 3.65002 5.51999L7.55002 8.30999C8.20002 8.75999 8.94002 8.52999 9.22002 7.79999L10.98 3.10999C11.54 1.60999 12.47 1.60999 13.03 3.10999L14.79 7.79999C15.07 8.52999 15.81 8.75999 16.45 8.30999L20.11 5.69999C21.67 4.57999 22.42 5.14999 21.78 6.95999L17.74 18.27C17.59 18.65 17.12 18.98 16.7 18.98Z", stroke: "currentColor", key: "k0" }],
+    ["path", { d: "M6.5 22H17.5", stroke: "currentColor", key: "k1" }],
+    ["path", { d: "M9.5 14H14.5", stroke: "currentColor", key: "k2" }]
+]);
+
+export default Crown1;

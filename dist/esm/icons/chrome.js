@@ -1,0 +1,7 @@
+/**
+ * @license bravyicons-react v0.3.5
+ *
+ * See the LICENSE file in the root directory of this source tree.
+ */
+
+import r from"../create-bravyicon-component.js";const o=r("Chrome",[["path",{d:"M12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22Z",stroke:"currentColor",key:"k0"}],["path",{d:"M12 16C14.21 16 16 14.21 16 12C16 9.79 14.21 8 12 8C9.79 8 8 9.79 8 12C8 14.21 9.79 16 12 16Z",stroke:"currentColor",key:"k1"}],["path",{d:"M21.17 8C18.15 7.34 15.02 7.34 12 8",stroke:"currentColor",key:"k2"}],["path",{d:"M3.95001 6.06006L3.97001 6.12006C4.98001 9.01006 6.53001 11.6901 8.54001 14.0001",stroke:"currentColor",key:"k3"}],["path",{d:"M10.88 21.94C12.94 19.67 14.49 16.99 15.43 14.08L15.46 14",stroke:"currentColor",key:"k4"}]]);export{o as default};

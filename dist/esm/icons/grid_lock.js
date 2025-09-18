@@ -1,0 +1,7 @@
+/**
+ * @license bravyicons-react v0.3.5
+ *
+ * See the LICENSE file in the root directory of this source tree.
+ */
+
+import r from"../create-bravyicon-component.js";const o=r("GridLock",[["path",{d:"M22 11V9C22 4 20 2 15 2H9C4 2 2 4 2 9V15C2 20 4 22 9 22H10",stroke:"currentColor",key:"k0"}],["path",{d:"M2.03 8.5H22",stroke:"currentColor",key:"k1"}],["path",{d:"M2.03 15.5H12",stroke:"currentColor",key:"k2"}],["path",{d:"M8.51001 21.99V2.01001",stroke:"currentColor",key:"k3"}],["path",{d:"M15.51 11.99V2.01001",stroke:"currentColor",key:"k4"}],["path",{d:"M15.6 17.2V16.4C15.6 15.07 16 14 18 14C20 14 20.4 15.07 20.4 16.4V17.2",stroke:"currentColor",key:"k5"}],["path",{d:"M20 22H16C14.4 22 14 21.6 14 20V19.2C14 17.6 14.4 17.2 16 17.2H20C21.6 17.2 22 17.6 22 19.2V20C22 21.6 21.6 22 20 22Z",stroke:"currentColor",key:"k6"}]]);export{o as default};

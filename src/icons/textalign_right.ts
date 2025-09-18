@@ -1,0 +1,17 @@
+import createBravyIconsComponent from '../create-bravyicon-component';
+
+/**
+ * @component @name TextalignRight
+ * @description Renders Bravyicons TextalignRight svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+ const TextalignRight = createBravyIconsComponent("TextalignRight", [
+    ["path", { d: "M3 4.5H21", stroke: "currentColor", key: "k0" }],
+    ["path", { d: "M11.53 9.5H21", stroke: "currentColor", key: "k1" }],
+    ["path", { d: "M3 14.5H21", stroke: "currentColor", key: "k2" }],
+    ["path", { d: "M11.53 19.5H21", stroke: "currentColor", key: "k3" }]
+]);
+
+export default TextalignRight;

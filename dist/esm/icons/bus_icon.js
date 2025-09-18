@@ -1,7 +1,0 @@
-/**
- * @license bravyicons-react v0.3.4
- *
- * See the LICENSE file in the root directory of this source tree.
- */
-
-import r from"../create-bravyicon-component.js";const o=r("BusIcon",[["path",{d:"M16.9 22H7.10001C5.40001 22 4 20.61 4 18.9V5.10001C4 3.40001 5.39001 2 7.10001 2H16.9C18.6 2 20 3.39001 20 5.10001V18.9C20 20.61 18.61 22 16.9 22Z",stroke:"currentColor",key:"k0"}],["path",{d:"M18.5 13H5.5C4.67 13 4 12.33 4 11.5V9.5C4 8.67 4.67 8 5.5 8H18.5C19.33 8 20 8.67 20 9.5V11.5C20 12.33 19.33 13 18.5 13Z",stroke:"currentColor",key:"k1"}],["path",{d:"M8.49451 17.7H8.50349",stroke:"currentColor",key:"k2"}],["path",{d:"M15.4945 17.7H15.5035",stroke:"currentColor",key:"k3"}],["path",{d:"M9.5 5H14.5",stroke:"currentColor",key:"k4"}]]);export{o as default};

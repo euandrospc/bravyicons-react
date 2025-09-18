@@ -1,0 +1,17 @@
+import createBravyIconsComponent from '../create-bravyicon-component';
+
+/**
+ * @component @name Convertshape2
+ * @description Renders Bravyicons Convertshape2 svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+ const Convertshape2 = createBravyIconsComponent("Convertshape2", [
+    ["path", { d: "M11 16.15V18.85C11 21.1 10.1 22 7.85 22H5.15C2.9 22 2 21.1 2 18.85V16.15C2 13.9 2.9 13 5.15 13H7.85C10.1 13 11 13.9 11 16.15Z", stroke: "currentColor", key: "k0" }],
+    ["path", { d: "M22 15C22 18.87 18.87 22 15 22L16.05 20.25", stroke: "currentColor", key: "k1" }],
+    ["path", { d: "M2 9C2 5.13 5.13 2 9 2L7.95 3.75", stroke: "currentColor", key: "k2" }],
+    ["path", { d: "M17.5 11C19.9853 11 22 8.98528 22 6.5C22 4.01472 19.9853 2 17.5 2C15.0147 2 13 4.01472 13 6.5C13 8.98528 15.0147 11 17.5 11Z", stroke: "currentColor", key: "k3" }]
+]);
+
+export default Convertshape2;
