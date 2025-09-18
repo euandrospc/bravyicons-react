@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      bravyicons-react:
+        specifier: ^0.3.2
+        version: 0.3.2(react@16.14.0)
     devDependencies:
       '@atomico/rollup-plugin-sizes':
         specifier: ^1.1.4
@@ -375,6 +379,11 @@ packages:
 
   boolbase@1.0.0:
     resolution: {integrity: sha512-JZOSA7Mo9sNGB8+UjSgzdLtokWAky1zbztM3WRLCbZ70/3cTANmQmOdR7y2g+J0e2WXywy1yS468tY+IruqEww==}
+
+  bravyicons-react@0.3.2:
+    resolution: {integrity: sha512-0PPBirJWn/uVF1OMLgUH5ejCRREQT9SnlkvqLWWezcY/5wPYU01pJ/92XaZYCnMNA6+11k/641T9V3ugRPUCoQ==}
+    peerDependencies:
+      react: '>=16.0.0'
 
   brotli-size@4.0.0:
     resolution: {integrity: sha512-uA9fOtlTRC0iqKfzff1W34DXUA3GyVqbUaeo3Rw3d4gd1eavKVCETXrn3NzO74W+UVkG3UHu8WxUi+XvKI/huA==}
@@ -1010,6 +1019,10 @@ snapshots:
   array-find-index@1.0.2: {}
 
   boolbase@1.0.0: {}
+
+  bravyicons-react@0.3.2(react@16.14.0):
+    dependencies:
+      react: 16.14.0
 
   brotli-size@4.0.0:
     dependencies:

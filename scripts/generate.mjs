@@ -35,15 +35,49 @@ async function convertSvgToJsObject(filePath) {
         reject(err);
         return;
       }
+
+      if (!data || data.trim() === '') {
+        resolve([]);
+        return;
+      }
+
       parse(data).then(json => {
         const elements = json.children.map((element, index) => {
+          // Function to convert CSS style string to React style object
+          const convertStyleStringToObject = (styleString) => {
+            if (!styleString) return null;
+            
+            const styleObj = {};
+            const declarations = styleString.split(';').filter(decl => decl.trim());
+            
+            declarations.forEach(decl => {
+              const [property, value] = decl.split(':').map(s => s.trim());
+              if (property && value) {
+                // Convert kebab-case to camelCase for React
+                const camelProperty = property.replace(/-([a-z])/g, (match, letter) => letter.toUpperCase());
+                styleObj[camelProperty] = value;
+              }
+            });
+            
+            return Object.keys(styleObj).length > 0 ? styleObj : null;
+          };
+
           let attributes = Object.entries(element.attributes)
-            // remove unwanted attributes (just keep important ones)
             .filter(([key]) => !['xmlns', 'xmlns:xlink', 'xml:space', 'stroke', 'fill', 'clip'].some(attr => key.startsWith(attr)))
-            .map(([key, value]) => `${key}: "${value}"`)
+            .map(([key, value]) => {
+              if (key === 'style') {
+                const styleObj = convertStyleStringToObject(value);
+                return styleObj ? `${key}: ${JSON.stringify(styleObj)}` : null;
+              }
+              else if (key.includes('-') && key !== 'fill-rule') {
+                const camelKey = key.replace(/-([a-z])/g, (match, letter) => letter.toUpperCase());
+                return `${camelKey}: "${value}"`;
+              }
+              return `${key}: "${value}"`;
+            })
+            .filter(attr => attr !== null)
             .join(', ');
 
-          // check if attributes has fill or stroke (add as current color)
           if (element.attributes.fill) {
             attributes += `, fill: "currentColor"`;
           }
@@ -52,7 +86,6 @@ async function convertSvgToJsObject(filePath) {
             attributes += `, stroke: "currentColor"`;
           }
 
-          // check if element has fill-rule attribute
           if (element.attributes['fill-rule']) {
             attributes += `, fillRule: "${element.attributes['fill-rule']}"`;
           }
@@ -77,7 +110,6 @@ function normalizeVariantName(fileName) {
 async function processDirectory(directory) {
   const icons = {};
 
-  // create output directory if not exists
   if (!fs.existsSync(outputDirectory)) {
     fs.mkdirSync(outputDirectory, { recursive: true });
   }
@@ -107,7 +139,6 @@ async function processDirectory(directory) {
     icons[componentName][variantName] = await convertSvgToJsObject(filePath);
   }
 
-  // Generate output files
   const indexArray = [];
   for (const [componentName, variants] of Object.entries(icons)) {
     let output = `import createBravyIconsComponent from '../create-bravyicon-component';\n\n`;
@@ -130,12 +161,13 @@ async function processDirectory(directory) {
     fs.writeFileSync(path.join(outputDirectory, fileName), output);
     console.log(`${fileName} has been saved.`);
 
-    // Add to index file
     indexArray.push(`export { default as ${componentName} } from './${fileName.replace('.ts', '')}';`);
   }
 
-  // Write index file
-  fs.writeFileSync(path.join(outputDirectory, 'index.ts'), indexArray.join('\n'));
+  if(indexArray.length > 0) {
+    fs.writeFileSync(path.join(outputDirectory, 'index.ts'), indexArray.join('\n'));
+  }
+
 }
 
 processDirectory(svgDirectory);
