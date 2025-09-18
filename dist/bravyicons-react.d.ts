@@ -2191,8 +2191,749 @@ declare const CirclesIcon: BravyIconsIcon;
  */
 declare const Redo2Icon: BravyIconsIcon;
 
+/**
+ * @component @name AlternativeIcon
+ * @description Renders Bravyicons AlternativeIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const AlternativeIcon: BravyIconsIcon;
+
+/**
+ * @component @name AmountIcon
+ * @description Renders Bravyicons AmountIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const AmountIcon: BravyIconsIcon;
+
+/**
+ * @component @name ArchiveIcon
+ * @description Renders Bravyicons ArchiveIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ArchiveIcon: BravyIconsIcon;
+
+/**
+ * @component @name AttentionIcon
+ * @description Renders Bravyicons AttentionIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const AttentionIcon: BravyIconsIcon;
+
+/**
+ * @component @name BabyIcon
+ * @description Renders Bravyicons BabyIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BabyIcon: BravyIconsIcon;
+
+/**
+ * @component @name Baby2Icon
+ * @description Renders Bravyicons Baby2Icon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Baby2Icon: BravyIconsIcon;
+
+/**
+ * @component @name BackIcon
+ * @description Renders Bravyicons BackIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BackIcon: BravyIconsIcon;
+
+/**
+ * @component @name BackArrowIcon
+ * @description Renders Bravyicons BackArrowIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BackArrowIcon: BravyIconsIcon;
+
+/**
+ * @component @name BagIcon
+ * @description Renders Bravyicons BagIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BagIcon: BravyIconsIcon;
+
+/**
+ * @component @name BellIcon
+ * @description Renders Bravyicons BellIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BellIcon: BravyIconsIcon;
+
+/**
+ * @component @name BicycleIcon
+ * @description Renders Bravyicons BicycleIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BicycleIcon: BravyIconsIcon;
+
+/**
+ * @component @name Bicycle2Icon
+ * @description Renders Bravyicons Bicycle2Icon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Bicycle2Icon: BravyIconsIcon;
+
+/**
+ * @component @name BirthdayIcon
+ * @description Renders Bravyicons BirthdayIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BirthdayIcon: BravyIconsIcon;
+
+/**
+ * @component @name BoxIcon
+ * @description Renders Bravyicons BoxIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BoxIcon: BravyIconsIcon;
+
+/**
+ * @component @name BrushIcon
+ * @description Renders Bravyicons BrushIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BrushIcon: BravyIconsIcon;
+
+/**
+ * @component @name BusinessIcon
+ * @description Renders Bravyicons BusinessIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const BusinessIcon: BravyIconsIcon;
+
+/**
+ * @component @name CalenderIcon
+ * @description Renders Bravyicons CalenderIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const CalenderIcon: BravyIconsIcon;
+
+/**
+ * @component @name CallcentarIcon
+ * @description Renders Bravyicons CallcentarIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const CallcentarIcon: BravyIconsIcon;
+
+/**
+ * @component @name CartIcon
+ * @description Renders Bravyicons CartIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const CartIcon: BravyIconsIcon;
+
+/**
+ * @component @name CashIcon
+ * @description Renders Bravyicons CashIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const CashIcon: BravyIconsIcon;
+
+/**
+ * @component @name CategoryIcon
+ * @description Renders Bravyicons CategoryIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const CategoryIcon: BravyIconsIcon;
+
+/**
+ * @component @name ChartSquareIcon
+ * @description Renders Bravyicons ChartSquareIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ChartSquareIcon: BravyIconsIcon;
+
+/**
+ * @component @name ChatIcon
+ * @description Renders Bravyicons ChatIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ChatIcon: BravyIconsIcon;
+
+/**
+ * @component @name CheckBoxIcon
+ * @description Renders Bravyicons CheckBoxIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const CheckBoxIcon: BravyIconsIcon;
+
+/**
+ * @component @name CheckedIcon
+ * @description Renders Bravyicons CheckedIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const CheckedIcon: BravyIconsIcon;
+
+/**
+ * @component @name CloseIcon
+ * @description Renders Bravyicons CloseIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const CloseIcon: BravyIconsIcon;
+
+/**
+ * @component @name CloseCircleIcon
+ * @description Renders Bravyicons CloseCircleIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const CloseCircleIcon: BravyIconsIcon;
+
+/**
+ * @component @name EyeIcon
+ * @description Renders Bravyicons EyeIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const EyeIcon: BravyIconsIcon;
+
+/**
+ * @component @name EyeSlashIcon
+ * @description Renders Bravyicons EyeSlashIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const EyeSlashIcon: BravyIconsIcon;
+
+/**
+ * @component @name FaqIcon
+ * @description Renders Bravyicons FaqIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const FaqIcon: BravyIconsIcon;
+
+/**
+ * @component @name FemaleIcon
+ * @description Renders Bravyicons FemaleIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const FemaleIcon: BravyIconsIcon;
+
+/**
+ * @component @name FilterIcon
+ * @description Renders Bravyicons FilterIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const FilterIcon: BravyIconsIcon;
+
+/**
+ * @component @name Filter2Icon
+ * @description Renders Bravyicons Filter2Icon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Filter2Icon: BravyIconsIcon;
+
+/**
+ * @component @name FullRedoIcon
+ * @description Renders Bravyicons FullRedoIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const FullRedoIcon: BravyIconsIcon;
+
+/**
+ * @component @name GenderIcon
+ * @description Renders Bravyicons GenderIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const GenderIcon: BravyIconsIcon;
+
+/**
+ * @component @name Gender2CompIcon
+ * @description Renders Bravyicons Gender2CompIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Gender2CompIcon: BravyIconsIcon;
+
+/**
+ * @component @name Gender2CompManIcon
+ * @description Renders Bravyicons Gender2CompManIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Gender2CompManIcon: BravyIconsIcon;
+
+/**
+ * @component @name Gender2CompWomanIcon
+ * @description Renders Bravyicons Gender2CompWomanIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Gender2CompWomanIcon: BravyIconsIcon;
+
+/**
+ * @component @name GenderFaceChangeIcon
+ * @description Renders Bravyicons GenderFaceChangeIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const GenderFaceChangeIcon: BravyIconsIcon;
+
+/**
+ * @component @name GenderFaceManIcon
+ * @description Renders Bravyicons GenderFaceManIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const GenderFaceManIcon: BravyIconsIcon;
+
+/**
+ * @component @name GenderFaceWomanIcon
+ * @description Renders Bravyicons GenderFaceWomanIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const GenderFaceWomanIcon: BravyIconsIcon;
+
+/**
+ * @component @name GenderManAndWomanIcon
+ * @description Renders Bravyicons GenderManAndWomanIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const GenderManAndWomanIcon: BravyIconsIcon;
+
+/**
+ * @component @name GiftIcon
+ * @description Renders Bravyicons GiftIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const GiftIcon: BravyIconsIcon;
+
+/**
+ * @component @name GlobalIcon
+ * @description Renders Bravyicons GlobalIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const GlobalIcon: BravyIconsIcon;
+
+/**
+ * @component @name Group1Icon
+ * @description Renders Bravyicons Group1Icon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Group1Icon: BravyIconsIcon;
+
+/**
+ * @component @name HeartIcon
+ * @description Renders Bravyicons HeartIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const HeartIcon: BravyIconsIcon;
+
+/**
+ * @component @name HelpIcon
+ * @description Renders Bravyicons HelpIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const HelpIcon: BravyIconsIcon;
+
+/**
+ * @component @name HomeIcon
+ * @description Renders Bravyicons HomeIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const HomeIcon: BravyIconsIcon;
+
+/**
+ * @component @name HospitalIcon
+ * @description Renders Bravyicons HospitalIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const HospitalIcon: BravyIconsIcon;
+
+/**
+ * @component @name IdIcon
+ * @description Renders Bravyicons IdIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const IdIcon: BravyIconsIcon;
+
+/**
+ * @component @name LanguagesIcon
+ * @description Renders Bravyicons LanguagesIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const LanguagesIcon: BravyIconsIcon;
+
+/**
+ * @component @name PaperclipAttachIcon
+ * @description Renders Bravyicons PaperclipAttachIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const PaperclipAttachIcon: BravyIconsIcon;
+
+/**
+ * @component @name PercentageSquareIcon
+ * @description Renders Bravyicons PercentageSquareIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const PercentageSquareIcon: BravyIconsIcon;
+
+/**
+ * @component @name PhoneIcon
+ * @description Renders Bravyicons PhoneIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const PhoneIcon: BravyIconsIcon;
+
+/**
+ * @component @name PlusIcon
+ * @description Renders Bravyicons PlusIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const PlusIcon: BravyIconsIcon;
+
+/**
+ * @component @name PrescriptionsIcon
+ * @description Renders Bravyicons PrescriptionsIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const PrescriptionsIcon: BravyIconsIcon;
+
+/**
+ * @component @name Prescriptions2Icon
+ * @description Renders Bravyicons Prescriptions2Icon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Prescriptions2Icon: BravyIconsIcon;
+
+/**
+ * @component @name QrCodeIcon
+ * @description Renders Bravyicons QrCodeIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const QrCodeIcon: BravyIconsIcon;
+
+/**
+ * @component @name QuestionMarkIcon
+ * @description Renders Bravyicons QuestionMarkIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const QuestionMarkIcon: BravyIconsIcon;
+
+/**
+ * @component @name Receipt1Icon
+ * @description Renders Bravyicons Receipt1Icon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Receipt1Icon: BravyIconsIcon;
+
+/**
+ * @component @name Receipt21Icon
+ * @description Renders Bravyicons Receipt21Icon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Receipt21Icon: BravyIconsIcon;
+
+/**
+ * @component @name Receipt2Icon
+ * @description Renders Bravyicons Receipt2Icon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const Receipt2Icon: BravyIconsIcon;
+
+/**
+ * @component @name ReceiptAddIcon
+ * @description Renders Bravyicons ReceiptAddIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ReceiptAddIcon: BravyIconsIcon;
+
+/**
+ * @component @name ReceiptDiscountIcon
+ * @description Renders Bravyicons ReceiptDiscountIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ReceiptDiscountIcon: BravyIconsIcon;
+
+/**
+ * @component @name ReceiptDisscountIcon
+ * @description Renders Bravyicons ReceiptDisscountIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ReceiptDisscountIcon: BravyIconsIcon;
+
+/**
+ * @component @name ReceiptEditIcon
+ * @description Renders Bravyicons ReceiptEditIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ReceiptEditIcon: BravyIconsIcon;
+
+/**
+ * @component @name ReceiptItemIcon
+ * @description Renders Bravyicons ReceiptItemIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ReceiptItemIcon: BravyIconsIcon;
+
+/**
+ * @component @name ReceiptMinusIcon
+ * @description Renders Bravyicons ReceiptMinusIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ReceiptMinusIcon: BravyIconsIcon;
+
+/**
+ * @component @name ReceiptSearchIcon
+ * @description Renders Bravyicons ReceiptSearchIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ReceiptSearchIcon: BravyIconsIcon;
+
+/**
+ * @component @name ReceiptTextIcon
+ * @description Renders Bravyicons ReceiptTextIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ReceiptTextIcon: BravyIconsIcon;
+
+/**
+ * @component @name ReceiptIcon
+ * @description Renders Bravyicons ReceiptIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const ReceiptIcon: BravyIconsIcon;
+
+/**
+ * @component @name RecieptIcon
+ * @description Renders Bravyicons RecieptIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const RecieptIcon: BravyIconsIcon;
+
+/**
+ * @component @name RecycleIcon
+ * @description Renders Bravyicons RecycleIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const RecycleIcon: BravyIconsIcon;
+
+/**
+ * @component @name WalletAdd1Icon
+ * @description Renders Bravyicons WalletAdd1Icon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const WalletAdd1Icon: BravyIconsIcon;
+
+/**
+ * @component @name WalletAddIcon
+ * @description Renders Bravyicons WalletAddIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const WalletAddIcon: BravyIconsIcon;
+
+/**
+ * @component @name WalletCheckIcon
+ * @description Renders Bravyicons WalletCheckIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const WalletCheckIcon: BravyIconsIcon;
+
+/**
+ * @component @name WalletMinusIcon
+ * @description Renders Bravyicons WalletMinusIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const WalletMinusIcon: BravyIconsIcon;
+
+/**
+ * @component @name WalletMoneyIcon
+ * @description Renders Bravyicons WalletMoneyIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const WalletMoneyIcon: BravyIconsIcon;
+
+/**
+ * @component @name WalletRemoveIcon
+ * @description Renders Bravyicons WalletRemoveIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const WalletRemoveIcon: BravyIconsIcon;
+
+/**
+ * @component @name WalletSearchIcon
+ * @description Renders Bravyicons WalletSearchIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const WalletSearchIcon: BravyIconsIcon;
+
+/**
+ * @component @name WalletIcon
+ * @description Renders Bravyicons WalletIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const WalletIcon: BravyIconsIcon;
+
+/**
+ * @component @name WiFiIcon
+ * @description Renders Bravyicons WiFiIcon svg element
+ *
+ * @param {Object} props - Bravyicons props and any valid SVG attribute
+ * @returns {JSX.Element} JSX Element
+ */
+declare const WiFiIcon: BravyIconsIcon;
+
 declare const index_AirplaneIcon: typeof AirplaneIcon;
 declare const index_AirplaneSquareIcon: typeof AirplaneSquareIcon;
+declare const index_AlternativeIcon: typeof AlternativeIcon;
+declare const index_AmountIcon: typeof AmountIcon;
+declare const index_ArchiveIcon: typeof ArchiveIcon;
 declare const index_ArrangeCircle2Icon: typeof ArrangeCircle2Icon;
 declare const index_ArrangeCircleIcon: typeof ArrangeCircleIcon;
 declare const index_ArrangeSquare2Icon: typeof ArrangeSquare2Icon;
@@ -2225,18 +2966,42 @@ declare const index_ArrowUp3Icon: typeof ArrowUp3Icon;
 declare const index_ArrowUpIcon: typeof ArrowUpIcon;
 declare const index_AttachCircleIcon: typeof AttachCircleIcon;
 declare const index_AttachSquareIcon: typeof AttachSquareIcon;
+declare const index_AttentionIcon: typeof AttentionIcon;
 declare const index_AudioSquareIcon: typeof AudioSquareIcon;
+declare const index_Baby2Icon: typeof Baby2Icon;
+declare const index_BabyIcon: typeof BabyIcon;
+declare const index_BackArrowIcon: typeof BackArrowIcon;
+declare const index_BackIcon: typeof BackIcon;
 declare const index_BackSquareIcon: typeof BackSquareIcon;
 declare const index_Backward10SecondsIcon: typeof Backward10SecondsIcon;
 declare const index_Backward15SecondsIcon: typeof Backward15SecondsIcon;
 declare const index_Backward5SecondsIcon: typeof Backward5SecondsIcon;
 declare const index_BackwardIcon: typeof BackwardIcon;
+declare const index_BagIcon: typeof BagIcon;
+declare const index_BellIcon: typeof BellIcon;
+declare const index_Bicycle2Icon: typeof Bicycle2Icon;
+declare const index_BicycleIcon: typeof BicycleIcon;
+declare const index_BirthdayIcon: typeof BirthdayIcon;
+declare const index_BoxIcon: typeof BoxIcon;
+declare const index_BrushIcon: typeof BrushIcon;
 declare const index_BusIcon: typeof BusIcon;
+declare const index_BusinessIcon: typeof BusinessIcon;
+declare const index_CalenderIcon: typeof CalenderIcon;
+declare const index_CallcentarIcon: typeof CallcentarIcon;
 declare const index_Camera2Icon: typeof Camera2Icon;
 declare const index_CameraIcon: typeof CameraIcon;
 declare const index_CameraSlashIcon: typeof CameraSlashIcon;
 declare const index_CarIcon: typeof CarIcon;
+declare const index_CartIcon: typeof CartIcon;
+declare const index_CashIcon: typeof CashIcon;
+declare const index_CategoryIcon: typeof CategoryIcon;
+declare const index_ChartSquareIcon: typeof ChartSquareIcon;
+declare const index_ChatIcon: typeof ChatIcon;
+declare const index_CheckBoxIcon: typeof CheckBoxIcon;
+declare const index_CheckedIcon: typeof CheckedIcon;
 declare const index_CirclesIcon: typeof CirclesIcon;
+declare const index_CloseCircleIcon: typeof CloseCircleIcon;
+declare const index_CloseIcon: typeof CloseIcon;
 declare const index_CloudCrossIcon: typeof CloudCrossIcon;
 declare const index_CloudDrizzleIcon: typeof CloudDrizzleIcon;
 declare const index_CloudFogIcon: typeof CloudFogIcon;
@@ -2256,6 +3021,12 @@ declare const index_Export1Icon: typeof Export1Icon;
 declare const index_Export2Icon: typeof Export2Icon;
 declare const index_Export3Icon: typeof Export3Icon;
 declare const index_ExportIcon: typeof ExportIcon;
+declare const index_EyeIcon: typeof EyeIcon;
+declare const index_EyeSlashIcon: typeof EyeSlashIcon;
+declare const index_FaqIcon: typeof FaqIcon;
+declare const index_FemaleIcon: typeof FemaleIcon;
+declare const index_Filter2Icon: typeof Filter2Icon;
+declare const index_FilterIcon: typeof FilterIcon;
 declare const index_FirstlineIcon: typeof FirstlineIcon;
 declare const index_FlashIcon: typeof FlashIcon;
 declare const index_Folder2Icon: typeof Folder2Icon;
@@ -2274,6 +3045,7 @@ declare const index_ForwardSquareIcon: typeof ForwardSquareIcon;
 declare const index_Frame1Icon: typeof Frame1Icon;
 declare const index_Frame2Icon: typeof Frame2Icon;
 declare const index_FrameIcon: typeof FrameIcon;
+declare const index_FullRedoIcon: typeof FullRedoIcon;
 declare const index_GalleryAddIcon: typeof GalleryAddIcon;
 declare const index_GalleryEditIcon: typeof GalleryEditIcon;
 declare const index_GalleryExportIcon: typeof GalleryExportIcon;
@@ -2284,13 +3056,30 @@ declare const index_GalleryRemoveIcon: typeof GalleryRemoveIcon;
 declare const index_GallerySlashIcon: typeof GallerySlashIcon;
 declare const index_GalleryTickIcon: typeof GalleryTickIcon;
 declare const index_GasStationIcon: typeof GasStationIcon;
+declare const index_Gender2CompIcon: typeof Gender2CompIcon;
+declare const index_Gender2CompManIcon: typeof Gender2CompManIcon;
+declare const index_Gender2CompWomanIcon: typeof Gender2CompWomanIcon;
+declare const index_GenderFaceChangeIcon: typeof GenderFaceChangeIcon;
+declare const index_GenderFaceManIcon: typeof GenderFaceManIcon;
+declare const index_GenderFaceWomanIcon: typeof GenderFaceWomanIcon;
+declare const index_GenderIcon: typeof GenderIcon;
+declare const index_GenderManAndWomanIcon: typeof GenderManAndWomanIcon;
+declare const index_GiftIcon: typeof GiftIcon;
+declare const index_GlobalIcon: typeof GlobalIcon;
+declare const index_Group1Icon: typeof Group1Icon;
 declare const index_GroupIcon: typeof GroupIcon;
+declare const index_HeartIcon: typeof HeartIcon;
+declare const index_HelpIcon: typeof HelpIcon;
+declare const index_HomeIcon: typeof HomeIcon;
+declare const index_HospitalIcon: typeof HospitalIcon;
+declare const index_IdIcon: typeof IdIcon;
 declare const index_ImageIcon: typeof ImageIcon;
 declare const index_Import1Icon: typeof Import1Icon;
 declare const index_Import2Icon: typeof Import2Icon;
 declare const index_ImportIcon: typeof ImportIcon;
 declare const index_LanguageCircleIcon: typeof LanguageCircleIcon;
 declare const index_LanguageSquareIcon: typeof LanguageSquareIcon;
+declare const index_LanguagesIcon: typeof LanguagesIcon;
 declare const index_Link1Icon: typeof Link1Icon;
 declare const index_Link21Icon: typeof Link21Icon;
 declare const index_Link2Icon: typeof Link2Icon;
@@ -2324,17 +3113,23 @@ declare const index_MusicnoteIcon: typeof MusicnoteIcon;
 declare const index_NextIcon: typeof NextIcon;
 declare const index_NoteSquareIcon: typeof NoteSquareIcon;
 declare const index_Paperclip2Icon: typeof Paperclip2Icon;
+declare const index_PaperclipAttachIcon: typeof PaperclipAttachIcon;
 declare const index_PaperclipIcon: typeof PaperclipIcon;
 declare const index_PauseCircleIcon: typeof PauseCircleIcon;
 declare const index_PauseIcon: typeof PauseIcon;
 declare const index_PeopleIcon: typeof PeopleIcon;
 declare const index_PercentCircleIcon: typeof PercentCircleIcon;
+declare const index_PercentageSquareIcon: typeof PercentageSquareIcon;
 declare const index_PharagraphspacingIcon: typeof PharagraphspacingIcon;
+declare const index_PhoneIcon: typeof PhoneIcon;
 declare const index_PlayAddIcon: typeof PlayAddIcon;
 declare const index_PlayCircleIcon: typeof PlayCircleIcon;
 declare const index_PlayCricleIcon: typeof PlayCricleIcon;
 declare const index_PlayIcon: typeof PlayIcon;
 declare const index_PlayRemoveIcon: typeof PlayRemoveIcon;
+declare const index_PlusIcon: typeof PlusIcon;
+declare const index_Prescriptions2Icon: typeof Prescriptions2Icon;
+declare const index_PrescriptionsIcon: typeof PrescriptionsIcon;
 declare const index_PreviousIcon: typeof PreviousIcon;
 declare const index_Profile2Icon: typeof Profile2Icon;
 declare const index_Profile2UserIcon: typeof Profile2UserIcon;
@@ -2344,6 +3139,8 @@ declare const index_ProfileDeleteIcon: typeof ProfileDeleteIcon;
 declare const index_ProfileIcon: typeof ProfileIcon;
 declare const index_ProfileRemoveIcon: typeof ProfileRemoveIcon;
 declare const index_ProfileTickIcon: typeof ProfileTickIcon;
+declare const index_QrCodeIcon: typeof QrCodeIcon;
+declare const index_QuestionMarkIcon: typeof QuestionMarkIcon;
 declare const index_QuoteDownCircleIcon: typeof QuoteDownCircleIcon;
 declare const index_QuoteDownIcon: typeof QuoteDownIcon;
 declare const index_QuoteDownSquareIcon: typeof QuoteDownSquareIcon;
@@ -2351,11 +3148,25 @@ declare const index_QuoteUpCircleIcon: typeof QuoteUpCircleIcon;
 declare const index_QuoteUpIcon: typeof QuoteUpIcon;
 declare const index_QuoteUpSquareIcon: typeof QuoteUpSquareIcon;
 declare const index_RadioIcon: typeof RadioIcon;
+declare const index_Receipt1Icon: typeof Receipt1Icon;
+declare const index_Receipt21Icon: typeof Receipt21Icon;
+declare const index_Receipt2Icon: typeof Receipt2Icon;
+declare const index_ReceiptAddIcon: typeof ReceiptAddIcon;
+declare const index_ReceiptDiscountIcon: typeof ReceiptDiscountIcon;
+declare const index_ReceiptDisscountIcon: typeof ReceiptDisscountIcon;
+declare const index_ReceiptEditIcon: typeof ReceiptEditIcon;
+declare const index_ReceiptIcon: typeof ReceiptIcon;
+declare const index_ReceiptItemIcon: typeof ReceiptItemIcon;
+declare const index_ReceiptMinusIcon: typeof ReceiptMinusIcon;
+declare const index_ReceiptSearchIcon: typeof ReceiptSearchIcon;
+declare const index_ReceiptTextIcon: typeof ReceiptTextIcon;
 declare const index_ReceiveSquare2Icon: typeof ReceiveSquare2Icon;
 declare const index_ReceiveSquareIcon: typeof ReceiveSquareIcon;
 declare const index_ReceivedIcon: typeof ReceivedIcon;
+declare const index_RecieptIcon: typeof RecieptIcon;
 declare const index_RecordCircleIcon: typeof RecordCircleIcon;
 declare const index_RecordIcon: typeof RecordIcon;
+declare const index_RecycleIcon: typeof RecycleIcon;
 declare const index_Redo2Icon: typeof Redo2Icon;
 declare const index_RedoIcon: typeof RedoIcon;
 declare const index_Refresh2Icon: typeof Refresh2Icon;
@@ -2431,12 +3242,24 @@ declare const index_VolumeLowIcon: typeof VolumeLowIcon;
 declare const index_VolumeMuteIcon: typeof VolumeMuteIcon;
 declare const index_VolumeSlashIcon: typeof VolumeSlashIcon;
 declare const index_VolumeUpIcon: typeof VolumeUpIcon;
+declare const index_WalletAdd1Icon: typeof WalletAdd1Icon;
+declare const index_WalletAddIcon: typeof WalletAddIcon;
+declare const index_WalletCheckIcon: typeof WalletCheckIcon;
+declare const index_WalletIcon: typeof WalletIcon;
+declare const index_WalletMinusIcon: typeof WalletMinusIcon;
+declare const index_WalletMoneyIcon: typeof WalletMoneyIcon;
+declare const index_WalletRemoveIcon: typeof WalletRemoveIcon;
+declare const index_WalletSearchIcon: typeof WalletSearchIcon;
+declare const index_WiFiIcon: typeof WiFiIcon;
 declare const index_Wind2Icon: typeof Wind2Icon;
 declare const index_WindIcon: typeof WindIcon;
 declare namespace index {
   export {
     index_AirplaneIcon as AirplaneIcon,
     index_AirplaneSquareIcon as AirplaneSquareIcon,
+    index_AlternativeIcon as AlternativeIcon,
+    index_AmountIcon as AmountIcon,
+    index_ArchiveIcon as ArchiveIcon,
     index_ArrangeCircle2Icon as ArrangeCircle2Icon,
     index_ArrangeCircleIcon as ArrangeCircleIcon,
     index_ArrangeSquare2Icon as ArrangeSquare2Icon,
@@ -2469,18 +3292,42 @@ declare namespace index {
     index_ArrowUpIcon as ArrowUpIcon,
     index_AttachCircleIcon as AttachCircleIcon,
     index_AttachSquareIcon as AttachSquareIcon,
+    index_AttentionIcon as AttentionIcon,
     index_AudioSquareIcon as AudioSquareIcon,
+    index_Baby2Icon as Baby2Icon,
+    index_BabyIcon as BabyIcon,
+    index_BackArrowIcon as BackArrowIcon,
+    index_BackIcon as BackIcon,
     index_BackSquareIcon as BackSquareIcon,
     index_Backward10SecondsIcon as Backward10SecondsIcon,
     index_Backward15SecondsIcon as Backward15SecondsIcon,
     index_Backward5SecondsIcon as Backward5SecondsIcon,
     index_BackwardIcon as BackwardIcon,
+    index_BagIcon as BagIcon,
+    index_BellIcon as BellIcon,
+    index_Bicycle2Icon as Bicycle2Icon,
+    index_BicycleIcon as BicycleIcon,
+    index_BirthdayIcon as BirthdayIcon,
+    index_BoxIcon as BoxIcon,
+    index_BrushIcon as BrushIcon,
     index_BusIcon as BusIcon,
+    index_BusinessIcon as BusinessIcon,
+    index_CalenderIcon as CalenderIcon,
+    index_CallcentarIcon as CallcentarIcon,
     index_Camera2Icon as Camera2Icon,
     index_CameraIcon as CameraIcon,
     index_CameraSlashIcon as CameraSlashIcon,
     index_CarIcon as CarIcon,
+    index_CartIcon as CartIcon,
+    index_CashIcon as CashIcon,
+    index_CategoryIcon as CategoryIcon,
+    index_ChartSquareIcon as ChartSquareIcon,
+    index_ChatIcon as ChatIcon,
+    index_CheckBoxIcon as CheckBoxIcon,
+    index_CheckedIcon as CheckedIcon,
     index_CirclesIcon as CirclesIcon,
+    index_CloseCircleIcon as CloseCircleIcon,
+    index_CloseIcon as CloseIcon,
     index_CloudCrossIcon as CloudCrossIcon,
     index_CloudDrizzleIcon as CloudDrizzleIcon,
     index_CloudFogIcon as CloudFogIcon,
@@ -2500,6 +3347,12 @@ declare namespace index {
     index_Export2Icon as Export2Icon,
     index_Export3Icon as Export3Icon,
     index_ExportIcon as ExportIcon,
+    index_EyeIcon as EyeIcon,
+    index_EyeSlashIcon as EyeSlashIcon,
+    index_FaqIcon as FaqIcon,
+    index_FemaleIcon as FemaleIcon,
+    index_Filter2Icon as Filter2Icon,
+    index_FilterIcon as FilterIcon,
     index_FirstlineIcon as FirstlineIcon,
     index_FlashIcon as FlashIcon,
     index_Folder2Icon as Folder2Icon,
@@ -2518,6 +3371,7 @@ declare namespace index {
     index_Frame1Icon as Frame1Icon,
     index_Frame2Icon as Frame2Icon,
     index_FrameIcon as FrameIcon,
+    index_FullRedoIcon as FullRedoIcon,
     index_GalleryAddIcon as GalleryAddIcon,
     index_GalleryEditIcon as GalleryEditIcon,
     index_GalleryExportIcon as GalleryExportIcon,
@@ -2528,13 +3382,30 @@ declare namespace index {
     index_GallerySlashIcon as GallerySlashIcon,
     index_GalleryTickIcon as GalleryTickIcon,
     index_GasStationIcon as GasStationIcon,
+    index_Gender2CompIcon as Gender2CompIcon,
+    index_Gender2CompManIcon as Gender2CompManIcon,
+    index_Gender2CompWomanIcon as Gender2CompWomanIcon,
+    index_GenderFaceChangeIcon as GenderFaceChangeIcon,
+    index_GenderFaceManIcon as GenderFaceManIcon,
+    index_GenderFaceWomanIcon as GenderFaceWomanIcon,
+    index_GenderIcon as GenderIcon,
+    index_GenderManAndWomanIcon as GenderManAndWomanIcon,
+    index_GiftIcon as GiftIcon,
+    index_GlobalIcon as GlobalIcon,
+    index_Group1Icon as Group1Icon,
     index_GroupIcon as GroupIcon,
+    index_HeartIcon as HeartIcon,
+    index_HelpIcon as HelpIcon,
+    index_HomeIcon as HomeIcon,
+    index_HospitalIcon as HospitalIcon,
+    index_IdIcon as IdIcon,
     index_ImageIcon as ImageIcon,
     index_Import1Icon as Import1Icon,
     index_Import2Icon as Import2Icon,
     index_ImportIcon as ImportIcon,
     index_LanguageCircleIcon as LanguageCircleIcon,
     index_LanguageSquareIcon as LanguageSquareIcon,
+    index_LanguagesIcon as LanguagesIcon,
     index_Link1Icon as Link1Icon,
     index_Link21Icon as Link21Icon,
     index_Link2Icon as Link2Icon,
@@ -2568,17 +3439,23 @@ declare namespace index {
     index_NextIcon as NextIcon,
     index_NoteSquareIcon as NoteSquareIcon,
     index_Paperclip2Icon as Paperclip2Icon,
+    index_PaperclipAttachIcon as PaperclipAttachIcon,
     index_PaperclipIcon as PaperclipIcon,
     index_PauseCircleIcon as PauseCircleIcon,
     index_PauseIcon as PauseIcon,
     index_PeopleIcon as PeopleIcon,
     index_PercentCircleIcon as PercentCircleIcon,
+    index_PercentageSquareIcon as PercentageSquareIcon,
     index_PharagraphspacingIcon as PharagraphspacingIcon,
+    index_PhoneIcon as PhoneIcon,
     index_PlayAddIcon as PlayAddIcon,
     index_PlayCircleIcon as PlayCircleIcon,
     index_PlayCricleIcon as PlayCricleIcon,
     index_PlayIcon as PlayIcon,
     index_PlayRemoveIcon as PlayRemoveIcon,
+    index_PlusIcon as PlusIcon,
+    index_Prescriptions2Icon as Prescriptions2Icon,
+    index_PrescriptionsIcon as PrescriptionsIcon,
     index_PreviousIcon as PreviousIcon,
     index_Profile2Icon as Profile2Icon,
     index_Profile2UserIcon as Profile2UserIcon,
@@ -2588,6 +3465,8 @@ declare namespace index {
     index_ProfileIcon as ProfileIcon,
     index_ProfileRemoveIcon as ProfileRemoveIcon,
     index_ProfileTickIcon as ProfileTickIcon,
+    index_QrCodeIcon as QrCodeIcon,
+    index_QuestionMarkIcon as QuestionMarkIcon,
     index_QuoteDownCircleIcon as QuoteDownCircleIcon,
     index_QuoteDownIcon as QuoteDownIcon,
     index_QuoteDownSquareIcon as QuoteDownSquareIcon,
@@ -2595,11 +3474,25 @@ declare namespace index {
     index_QuoteUpIcon as QuoteUpIcon,
     index_QuoteUpSquareIcon as QuoteUpSquareIcon,
     index_RadioIcon as RadioIcon,
+    index_Receipt1Icon as Receipt1Icon,
+    index_Receipt21Icon as Receipt21Icon,
+    index_Receipt2Icon as Receipt2Icon,
+    index_ReceiptAddIcon as ReceiptAddIcon,
+    index_ReceiptDiscountIcon as ReceiptDiscountIcon,
+    index_ReceiptDisscountIcon as ReceiptDisscountIcon,
+    index_ReceiptEditIcon as ReceiptEditIcon,
+    index_ReceiptIcon as ReceiptIcon,
+    index_ReceiptItemIcon as ReceiptItemIcon,
+    index_ReceiptMinusIcon as ReceiptMinusIcon,
+    index_ReceiptSearchIcon as ReceiptSearchIcon,
+    index_ReceiptTextIcon as ReceiptTextIcon,
     index_ReceiveSquare2Icon as ReceiveSquare2Icon,
     index_ReceiveSquareIcon as ReceiveSquareIcon,
     index_ReceivedIcon as ReceivedIcon,
+    index_RecieptIcon as RecieptIcon,
     index_RecordCircleIcon as RecordCircleIcon,
     index_RecordIcon as RecordIcon,
+    index_RecycleIcon as RecycleIcon,
     index_Redo2Icon as Redo2Icon,
     index_RedoIcon as RedoIcon,
     index_Refresh2Icon as Refresh2Icon,
@@ -2675,10 +3568,19 @@ declare namespace index {
     index_VolumeMuteIcon as VolumeMuteIcon,
     index_VolumeSlashIcon as VolumeSlashIcon,
     index_VolumeUpIcon as VolumeUpIcon,
+    index_WalletAdd1Icon as WalletAdd1Icon,
+    index_WalletAddIcon as WalletAddIcon,
+    index_WalletCheckIcon as WalletCheckIcon,
+    index_WalletIcon as WalletIcon,
+    index_WalletMinusIcon as WalletMinusIcon,
+    index_WalletMoneyIcon as WalletMoneyIcon,
+    index_WalletRemoveIcon as WalletRemoveIcon,
+    index_WalletSearchIcon as WalletSearchIcon,
+    index_WiFiIcon as WiFiIcon,
     index_Wind2Icon as Wind2Icon,
     index_WindIcon as WindIcon,
   };
 }
 
-export { AirplaneIcon, AirplaneSquareIcon, ArrangeCircle2Icon, ArrangeCircleIcon, ArrangeSquare2Icon, ArrangeSquareIcon, Arrow2Icon, Arrow3Icon, ArrowBottomIcon, ArrowCircleDownIcon, ArrowCircleLeftIcon, ArrowCircleRightIcon, ArrowDown1Icon, ArrowDown2Icon, ArrowDownIcon, ArrowLeft1Icon, ArrowLeft2Icon, ArrowLeft3Icon, ArrowLeftIcon, ArrowRight1Icon, ArrowRight2Icon, ArrowRight3Icon, ArrowRightIcon, ArrowSquareDownIcon, ArrowSquareLeftIcon, ArrowSquareRightIcon, ArrowSquareUpIcon, ArrowSwapHorizontalIcon, ArrowUp1Icon, ArrowUp2Icon, ArrowUp3Icon, ArrowUpIcon, AttachCircleIcon, AttachSquareIcon, AudioSquareIcon, BackSquareIcon, Backward10SecondsIcon, Backward15SecondsIcon, Backward5SecondsIcon, BackwardIcon, BusIcon, Camera2Icon, CameraIcon, CameraSlashIcon, CarIcon, CirclesIcon, CloudCrossIcon, CloudDrizzleIcon, CloudFogIcon, CloudIcon, CloudLightningIcon, CloudMinusIcon, CloudNotifIcon, CloudPlusIcon, CloudSnowIcon, CloudSunnyIcon, ConvertIcon, DevicesIcon, DrivingIcon, DropIcon, EraserIcon, Export1Icon, Export2Icon, Export3Icon, ExportIcon, FirstlineIcon, FlashIcon, Folder2Icon, FolderAddIcon, FolderCloudIcon, FolderCrossIcon, FolderFavoriteIcon, FolderIcon, FolderMinusIcon, FolderOpenIcon, Forward10SecondsIcon, Forward15SecondsIcon, Forward5SecondsIcon, ForwardIcon, ForwardSquareIcon, Frame1Icon, Frame2Icon, FrameIcon, GalleryAddIcon, GalleryEditIcon, GalleryExportIcon, GalleryFavoriteIcon, GalleryIcon, GalleryImportIcon, GalleryRemoveIcon, GallerySlashIcon, GalleryTickIcon, GasStationIcon, GroupIcon, ImageIcon, Import1Icon, Import2Icon, ImportIcon, LanguageCircleIcon, LanguageSquareIcon, Link1Icon, Link21Icon, Link2Icon, LinkAltIcon, LinkCircleIcon, LinkIcon, LinkSquareIcon, Login1Icon, LoginIcon, Logout1Icon, LogoutIcon, MaximizeCircleIcon, MaximizeIcon, Microphone2Icon, MicrophoneIcon, MicrophoneSlash1Icon, MicrophoneSlashIcon, MiniMusicSqaureIcon, MoonIcon, MusicCircleIcon, MusicDashboardIcon, MusicFilterIcon, MusicIcon, MusicLibrary2Icon, MusicPlaylistIcon, MusicSquareAddIcon, MusicSquareIcon, MusicSquareRemoveIcon, MusicSquareSearchIcon, MusicnoteIcon, NextIcon, NoteSquareIcon, Paperclip2Icon, PaperclipIcon, PauseCircleIcon, PauseIcon, PeopleIcon, PercentCircleIcon, PharagraphspacingIcon, PlayAddIcon, PlayCircleIcon, PlayCricleIcon, PlayIcon, PlayRemoveIcon, PreviousIcon, Profile2Icon, Profile2UserIcon, ProfileAddIcon, ProfileCircleIcon, ProfileDeleteIcon, ProfileIcon, ProfileRemoveIcon, ProfileTickIcon, QuoteDownCircleIcon, QuoteDownIcon, QuoteDownSquareIcon, QuoteUpCircleIcon, QuoteUpIcon, QuoteUpSquareIcon, RadioIcon, ReceiveSquare2Icon, ReceiveSquareIcon, ReceivedIcon, RecordCircleIcon, RecordIcon, Redo2Icon, RedoIcon, Refresh2Icon, RefreshCircleIcon, RefreshIcon, RefreshLeftSquareIcon, RefreshRightSquareIcon, RefreshSquare2Icon, RepeatCircleIcon, RepeatIcon, RepeateMusicIcon, RepeateOneIcon, RotateLeftIcon, RotateRightIcon, ScissorIcon, ScreenmirroringIcon, SendIcon, SendSqaure2Icon, SendSquareIcon, ShipIcon, SmallcapsIcon, SmartCarIcon, StopCircleIcon, StopIcon, SubtitleIcon, Sun1Icon, SunFogIcon, SunIcon, TagUserIcon, TextBlockIcon, TextBoldIcon, TextIcon, TextItalicIcon, TextUnderlineIcon, TextalignCenterIcon, TextalignJustifycenterIcon, TextalignJustifyleftIcon, TextalignJustifyrightIcon, TextalignLeftIcon, TextalignRightIcon, TranslateIcon, TruckIcon, UndoIcon, UserAddIcon, UserCirlceAddIcon, UserEditIcon, UserIcon, UserMinusIcon, UserOctagonIcon, UserRemoveIcon, UserSearchIcon, UserSquareIcon, UserTagIcon, UserTickIcon, VideoAddIcon, VideoCircleIcon, VideoHorizontalIcon, VideoIcon, VideoOctagonIcon, VideoPlayIcon, VideoRemoveIcon, VideoSlashIcon, VideoSquareIcon, VideoTickIcon, VideoTimeIcon, VideoVerticalIcon, VoiceCricleIcon, VoiceSquareIcon, VolumeCrossIcon, VolumeHighIcon, VolumeLow1Icon, VolumeLowIcon, VolumeMuteIcon, VolumeSlashIcon, VolumeUpIcon, Wind2Icon, WindIcon, createBravyIconsComponent, index as icons };
+export { AirplaneIcon, AirplaneSquareIcon, AlternativeIcon, AmountIcon, ArchiveIcon, ArrangeCircle2Icon, ArrangeCircleIcon, ArrangeSquare2Icon, ArrangeSquareIcon, Arrow2Icon, Arrow3Icon, ArrowBottomIcon, ArrowCircleDownIcon, ArrowCircleLeftIcon, ArrowCircleRightIcon, ArrowDown1Icon, ArrowDown2Icon, ArrowDownIcon, ArrowLeft1Icon, ArrowLeft2Icon, ArrowLeft3Icon, ArrowLeftIcon, ArrowRight1Icon, ArrowRight2Icon, ArrowRight3Icon, ArrowRightIcon, ArrowSquareDownIcon, ArrowSquareLeftIcon, ArrowSquareRightIcon, ArrowSquareUpIcon, ArrowSwapHorizontalIcon, ArrowUp1Icon, ArrowUp2Icon, ArrowUp3Icon, ArrowUpIcon, AttachCircleIcon, AttachSquareIcon, AttentionIcon, AudioSquareIcon, Baby2Icon, BabyIcon, BackArrowIcon, BackIcon, BackSquareIcon, Backward10SecondsIcon, Backward15SecondsIcon, Backward5SecondsIcon, BackwardIcon, BagIcon, BellIcon, Bicycle2Icon, BicycleIcon, BirthdayIcon, BoxIcon, BrushIcon, BusIcon, BusinessIcon, CalenderIcon, CallcentarIcon, Camera2Icon, CameraIcon, CameraSlashIcon, CarIcon, CartIcon, CashIcon, CategoryIcon, ChartSquareIcon, ChatIcon, CheckBoxIcon, CheckedIcon, CirclesIcon, CloseCircleIcon, CloseIcon, CloudCrossIcon, CloudDrizzleIcon, CloudFogIcon, CloudIcon, CloudLightningIcon, CloudMinusIcon, CloudNotifIcon, CloudPlusIcon, CloudSnowIcon, CloudSunnyIcon, ConvertIcon, DevicesIcon, DrivingIcon, DropIcon, EraserIcon, Export1Icon, Export2Icon, Export3Icon, ExportIcon, EyeIcon, EyeSlashIcon, FaqIcon, FemaleIcon, Filter2Icon, FilterIcon, FirstlineIcon, FlashIcon, Folder2Icon, FolderAddIcon, FolderCloudIcon, FolderCrossIcon, FolderFavoriteIcon, FolderIcon, FolderMinusIcon, FolderOpenIcon, Forward10SecondsIcon, Forward15SecondsIcon, Forward5SecondsIcon, ForwardIcon, ForwardSquareIcon, Frame1Icon, Frame2Icon, FrameIcon, FullRedoIcon, GalleryAddIcon, GalleryEditIcon, GalleryExportIcon, GalleryFavoriteIcon, GalleryIcon, GalleryImportIcon, GalleryRemoveIcon, GallerySlashIcon, GalleryTickIcon, GasStationIcon, Gender2CompIcon, Gender2CompManIcon, Gender2CompWomanIcon, GenderFaceChangeIcon, GenderFaceManIcon, GenderFaceWomanIcon, GenderIcon, GenderManAndWomanIcon, GiftIcon, GlobalIcon, Group1Icon, GroupIcon, HeartIcon, HelpIcon, HomeIcon, HospitalIcon, IdIcon, ImageIcon, Import1Icon, Import2Icon, ImportIcon, LanguageCircleIcon, LanguageSquareIcon, LanguagesIcon, Link1Icon, Link21Icon, Link2Icon, LinkAltIcon, LinkCircleIcon, LinkIcon, LinkSquareIcon, Login1Icon, LoginIcon, Logout1Icon, LogoutIcon, MaximizeCircleIcon, MaximizeIcon, Microphone2Icon, MicrophoneIcon, MicrophoneSlash1Icon, MicrophoneSlashIcon, MiniMusicSqaureIcon, MoonIcon, MusicCircleIcon, MusicDashboardIcon, MusicFilterIcon, MusicIcon, MusicLibrary2Icon, MusicPlaylistIcon, MusicSquareAddIcon, MusicSquareIcon, MusicSquareRemoveIcon, MusicSquareSearchIcon, MusicnoteIcon, NextIcon, NoteSquareIcon, Paperclip2Icon, PaperclipAttachIcon, PaperclipIcon, PauseCircleIcon, PauseIcon, PeopleIcon, PercentCircleIcon, PercentageSquareIcon, PharagraphspacingIcon, PhoneIcon, PlayAddIcon, PlayCircleIcon, PlayCricleIcon, PlayIcon, PlayRemoveIcon, PlusIcon, Prescriptions2Icon, PrescriptionsIcon, PreviousIcon, Profile2Icon, Profile2UserIcon, ProfileAddIcon, ProfileCircleIcon, ProfileDeleteIcon, ProfileIcon, ProfileRemoveIcon, ProfileTickIcon, QrCodeIcon, QuestionMarkIcon, QuoteDownCircleIcon, QuoteDownIcon, QuoteDownSquareIcon, QuoteUpCircleIcon, QuoteUpIcon, QuoteUpSquareIcon, RadioIcon, Receipt1Icon, Receipt21Icon, Receipt2Icon, ReceiptAddIcon, ReceiptDiscountIcon, ReceiptDisscountIcon, ReceiptEditIcon, ReceiptIcon, ReceiptItemIcon, ReceiptMinusIcon, ReceiptSearchIcon, ReceiptTextIcon, ReceiveSquare2Icon, ReceiveSquareIcon, ReceivedIcon, RecieptIcon, RecordCircleIcon, RecordIcon, RecycleIcon, Redo2Icon, RedoIcon, Refresh2Icon, RefreshCircleIcon, RefreshIcon, RefreshLeftSquareIcon, RefreshRightSquareIcon, RefreshSquare2Icon, RepeatCircleIcon, RepeatIcon, RepeateMusicIcon, RepeateOneIcon, RotateLeftIcon, RotateRightIcon, ScissorIcon, ScreenmirroringIcon, SendIcon, SendSqaure2Icon, SendSquareIcon, ShipIcon, SmallcapsIcon, SmartCarIcon, StopCircleIcon, StopIcon, SubtitleIcon, Sun1Icon, SunFogIcon, SunIcon, TagUserIcon, TextBlockIcon, TextBoldIcon, TextIcon, TextItalicIcon, TextUnderlineIcon, TextalignCenterIcon, TextalignJustifycenterIcon, TextalignJustifyleftIcon, TextalignJustifyrightIcon, TextalignLeftIcon, TextalignRightIcon, TranslateIcon, TruckIcon, UndoIcon, UserAddIcon, UserCirlceAddIcon, UserEditIcon, UserIcon, UserMinusIcon, UserOctagonIcon, UserRemoveIcon, UserSearchIcon, UserSquareIcon, UserTagIcon, UserTickIcon, VideoAddIcon, VideoCircleIcon, VideoHorizontalIcon, VideoIcon, VideoOctagonIcon, VideoPlayIcon, VideoRemoveIcon, VideoSlashIcon, VideoSquareIcon, VideoTickIcon, VideoTimeIcon, VideoVerticalIcon, VoiceCricleIcon, VoiceSquareIcon, VolumeCrossIcon, VolumeHighIcon, VolumeLow1Icon, VolumeLowIcon, VolumeMuteIcon, VolumeSlashIcon, VolumeUpIcon, WalletAdd1Icon, WalletAddIcon, WalletCheckIcon, WalletIcon, WalletMinusIcon, WalletMoneyIcon, WalletRemoveIcon, WalletSearchIcon, WiFiIcon, Wind2Icon, WindIcon, createBravyIconsComponent, index as icons };
 export type { BravyIconsIcon, BravyIconsProps, IconSvgObject };
