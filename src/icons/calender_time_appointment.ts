@@ -8,8 +8,20 @@ import createBravyIconsComponent from '../create-bravyicon-component';
  * @returns {JSX.Element} JSX Element
  */
  const CalenderTimeAppointment = createBravyIconsComponent("CalenderTimeAppointment", [
-    ["g", { key: "k0" }],
-    ["defs", { key: "k1" }]
+    ["g", { clipPath: "url(#clip0_4547_1419)", key: "k0" }],
+    ["path", { d: "M5.09082 0.727295V2.90911", stroke: "currentColor", strokeWidth: "1.2", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round", key: "k1" }],
+    ["path", { d: "M10.9092 0.727295V2.90911", stroke: "currentColor", strokeWidth: "1.2", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round", key: "k2" }],
+    ["path", { d: "M1.81812 5.88367H14.1818", stroke: "currentColor", strokeWidth: "1.2", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round", key: "k3" }],
+    ["path", { d: "M14.5455 5.4546V11.6364C14.5455 13.8182 13.4546 15.2728 10.9091 15.2728H5.09095C2.5455 15.2728 1.45459 13.8182 1.45459 11.6364V5.4546C1.45459 3.27278 2.5455 1.81824 5.09095 1.81824H10.9091C13.4546 1.81824 14.5455 3.27278 14.5455 5.4546Z", stroke: "currentColor", strokeWidth: "1.2", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round", key: "k4" }],
+    ["path", { d: "M10.687 9.23632H10.6936", stroke: "currentColor", strokeWidth: "1.4", strokeLinecap: "round", strokeLinejoin: "round", key: "k5" }],
+    ["path", { d: "M10.687 11.4182H10.6936", stroke: "currentColor", strokeWidth: "1.4", strokeLinecap: "round", strokeLinejoin: "round", key: "k6" }],
+    ["path", { d: "M7.9966 9.23632H8.00314", stroke: "currentColor", strokeWidth: "1.4", strokeLinecap: "round", strokeLinejoin: "round", key: "k7" }],
+    ["path", { d: "M7.9966 11.4182H8.00314", stroke: "currentColor", strokeWidth: "1.4", strokeLinecap: "round", strokeLinejoin: "round", key: "k8" }],
+    ["path", { d: "M5.30495 9.23632H5.31149", stroke: "currentColor", strokeWidth: "1.4", strokeLinecap: "round", strokeLinejoin: "round", key: "k9" }],
+    ["path", { d: "M5.30495 11.4182H5.31149", stroke: "currentColor", strokeWidth: "1.4", strokeLinecap: "round", strokeLinejoin: "round", key: "k10" }],
+    ["defs", { key: "k11" }],
+    ["clipPath", { id: "clip0_4547_1419", key: "k12" }],
+    ["rect", { width: "16", height: "16", fill: "white", key: "k13" }]
 ]);
 
 export default CalenderTimeAppointment;
