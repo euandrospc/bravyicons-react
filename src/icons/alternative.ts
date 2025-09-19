@@ -8,7 +8,7 @@ import createBravyIconsComponent from '../create-bravyicon-component';
  * @returns {JSX.Element} JSX Element
  */
  const Alternative = createBravyIconsComponent("Alternative", [
-    ["mask", { id: "mask0_4547_901", style: "mask-type:alpha", maskUnits: "userSpaceOnUse", x: "0", y: "2", width: "16", height: "13", key: "k0" }],
+    ["mask", { id: "mask0_4547_901", maskUnits: "userSpaceOnUse", x: "0", y: "2", width: "16", height: "13", key: "k0" }],
     ["rect", { x: "0.6", y: "2.6", width: "14.7947", height: "11.1", fill: "#6C6D77", stroke: "#6C6D77", strokeWidth: "1.2", key: "k1" }],
     ["g", { mask: "url(#mask0_4547_901)", key: "k2" }],
     ["path", { d: "M8.75073 9.79004L11.7563 6.78346L14.7619 9.79004C15.5919 10.6203 15.5919 11.9664 14.7619 12.7966V12.7966C13.9319 13.6269 12.5863 13.6269 11.7563 12.7966L8.75073 9.79004Z", stroke: "currentColor", strokeWidth: "1.2", strokeLinejoin: "round", key: "k3" }],
