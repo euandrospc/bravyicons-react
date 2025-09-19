@@ -1,8 +1,8 @@
 {
   "name": "bravyicons-react",
   "version": "0.3.9",
-  "description": "BravyIcons React Component Library https://bravyicons.com",
-  "homepage": "https://bravyicons.com",
+  "description": "BravyIcons React Component Library https://euandrospc.github.io/bravyicons-react/",
+  "homepage": "https://euandrospc.github.io/bravyicons-react/",
   "amdName": "bravyicons-react",
   "main": "dist/cjs/bravyicons-react.js",
   "main:umd": "dist/umd/bravyicons-react.js",
